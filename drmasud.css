@@ -170,6 +170,30 @@ nav a:hover{
 
 }
 
+h1{
+    animation: heading 3s ease forwards,smoothie 4.5s infinite;
+}
+@keyframes heading{
+    0%{
+        opacity: 0;
+        transform: translateY(-40px);
+    }
+}
+@keyframes smoothie{
+    40%{
+        transform: translateY(0px);
+    }
+    70%{
+        transform: translateY(-6px);
+    }
+    90%{
+        transform: translateY(0px);
+    }
+    0%{
+        transform: translateY(0px);
+    }
+}
+
 .hero-content p{
 
     font-size:20px;
