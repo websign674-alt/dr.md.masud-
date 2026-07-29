@@ -294,7 +294,7 @@ section p{
 
  .hov{
     position: sticky;
-    top: -35px;
+    top: -25px;
     z-index: 20000;
 }
 
