@@ -595,7 +595,7 @@ footer{
     }
 
     .logo{
-        font-size:18px;
+        font-size:15px;
     }
 
     nav ul{
@@ -607,8 +607,8 @@ footer{
     }
 
     #call{
-        width:90px;
-        font-size: 12px;
+        width:65px;
+        font-size: 16px;
         padding-left: 10px;
     }
 
