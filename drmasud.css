@@ -665,7 +665,10 @@ footer{
         gap:20px;
         text-align:center;
     }
-
+body{
+    margin:0;
+    padding:0;
+}
     .logo{
         font-size:15px;
     }
