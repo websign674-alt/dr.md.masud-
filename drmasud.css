@@ -167,7 +167,8 @@ nav a:hover{
     line-height:1.1;
 
     margin-bottom:20px;
-    
+}
+h1{
     animation: heading 3s ease forwards,smoothie 4.5s infinite;
 }
 @keyframes heading{
@@ -186,9 +187,6 @@ nav a:hover{
     70%{
         transform: translateY(-6px);
     }
-    80%{
-        transform: translateY(-6px);
-    }
     90%{
         transform: translateY(0px);
     }
@@ -196,7 +194,6 @@ nav a:hover{
         transform: translateY(0px);
     }
 }
-
 
 .hero-content p{
 
