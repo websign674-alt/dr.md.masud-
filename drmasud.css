@@ -167,11 +167,8 @@ nav a:hover{
     line-height:1.1;
 
     margin-bottom:20px;
-
-}
-
-h1{
-    animation: heading 3s ease forwards,smoothie 4.5s infinite;
+    
+  animation: heading 3s ease forwards,smoothie 4.5s infinite;
 }
 @keyframes heading{
     0%{
