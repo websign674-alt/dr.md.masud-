@@ -640,6 +640,19 @@ footer{
 .whatsapp:hover{
     transform: scale(1.1);
 }
+
+::-webkit-scrollbar{
+    width: 6px;      /* Vertical scrollbar ki motai */
+}
+
+::-webkit-scrollbar-thumb{
+    background: #00bcd4;
+    border-radius: 10px;
+}
+
+::-webkit-scrollbar-track{
+    background: #111;
+}
 /* ================= MOBILE RESPONSIVE ================= */
 
 @media (max-width:768px){
