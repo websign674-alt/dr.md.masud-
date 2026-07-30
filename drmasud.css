@@ -746,9 +746,11 @@ body{
     nav a{
         font-size:13px
     }
-
     .navvvv a{
-        font-size: 8px;
+        font-size: 11px;
+    }
+    .navvvv ul{
+        gap: 30px;
     }
 
     #call{
