@@ -871,7 +871,7 @@ body{
 
 }
 
-@media (max-width:768px){
+@media (max-width:368px){
 nav ul{
         gap:10px;
     }
