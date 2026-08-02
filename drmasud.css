@@ -195,7 +195,6 @@ nav a:hover{
 h1{
     animation: smoothie 4.5s infinite;
 }
-}
 @keyframes smoothie{
     40%{
         transform: translateY(0px);
