@@ -250,7 +250,7 @@ h1{
 
 }
 
-.hero-btn button:first-child{
+.hero-btn a button:first-child{
 
     background:#0d6efd;
 
@@ -260,7 +260,7 @@ h1{
 
 .hero-btn button:last-child{
 
-    background:white;
+    background:blue;
 
     color:#111;
 
