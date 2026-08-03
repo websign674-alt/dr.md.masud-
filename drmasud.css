@@ -258,14 +258,6 @@ h1{
 
 }
 
-.hero-btn button:last-child{
-
-    background:white;
-
-    color:#111;
-
-}
-
 .hero-btn button:hover{
 
     transform:translateY(-5px);
