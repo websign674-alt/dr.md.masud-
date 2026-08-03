@@ -307,15 +307,12 @@ section p{
 
 /* ---------- ABOUT ---------- */
 
- .hov{
-    position: sticky;
-    top: -45px;
-    z-index: 20000;
-}
-
 .navvvv{
     display: flex;
     justify-content: center;
+    position: sticky;
+    top: 10px;
+    z-index: 5;
 }
 .navvvv ul{
 
